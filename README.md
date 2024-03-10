@@ -72,7 +72,8 @@ I'm a front-end enthusiast with a passion for crafting delightful user experienc
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waterfal1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/aliaksei-tamilouski/"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="Alex Tamilouski | LinkedIn" width="48px" height="48px" /></a>
+<a href="https://www.linkedin.com/in/aliaksei-tamilouski/"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="Alex Tamilouski | LinkedIn" width="48px" 
+target="blank" height="48px" /></a>
 </br>
 <p align="left"> 
   Visitor count<br>
