@@ -73,7 +73,7 @@ I'm a front-end enthusiast with a passion for crafting delightful user experienc
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/aliaksei-tamilouski/"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="Alex Tamilouski | LinkedIn" width="48px" 
-target="blank" height="48px" /></a>
+target="_blank" height="48px" /></a>
 </br>
 <p align="left"> 
   Visitor count<br>
