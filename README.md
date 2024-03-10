@@ -4,7 +4,7 @@ I'm a Front-end Developer 💻!
 </h2>
 
 ### About me:
-I'm a frontend enthusiast with a passion for crafting delightful user experiences. For over three years, I've immersed myself in the world of front-end development, breathing life into designs and pushing the boundaries of what's possible on the web. I'm a versatile developer, equally adept at diving into backend challenges and navigating the DevOps landscape. I believe that learning never stops. With each project and challenge, I seize the opportunity to expand my knowledge and skill set, staying abreast of the latest trends and technologies.
+I'm a front-end enthusiast with a passion for crafting delightful user experiences. I'm a versatile developer, equally adept at diving into backend challenges and navigating the DevOps landscape. I try to stay abreast of the latest trends and technologies.
 ### Technologies and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
