@@ -70,6 +70,7 @@ I'm a front-end enthusiast with a passion for crafting delightful user experienc
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waterfal1&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats-delta-olive-64.vercel.app/api?username=waterfal1)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝 Connect with me:
 [Send me an email](mailto:alextomilovski@gmail.com)
