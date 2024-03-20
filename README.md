@@ -67,7 +67,7 @@ I'm a front-end enthusiast with a passion for crafting delightful user experienc
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </div>
-
+    
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waterfal1&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
