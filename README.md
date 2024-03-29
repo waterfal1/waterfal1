@@ -68,10 +68,8 @@ I'm a front-end enthusiast with a passion for crafting delightful user experienc
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </div>
 
-### 🔥My Leetcode stats
-![](https://leetcard.jacoblin.cool/Alexei22?ext=heatmap)
-
-### 🔥My Codewars stats
+### 🔥Stats
+![](https://leetcard.jacoblin.cool/Alexei22)
 ![Codewars](https://github.r2v.ch/codewars?user=Aliaksei2233&name=true)
 
 ### :fire: My Stats :
@@ -79,7 +77,6 @@ I'm a front-end enthusiast with a passion for crafting delightful user experienc
 [![GitHub Streak](http://github-streak-1.vercel.app?user=waterfal1&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
 ![GitHub stats](https://github-readme-stats-delta-olive-66.vercel.app/api?username=waterfal1)
-<br/>
 ![Top Langs](https://github-readme-stats-delta-olive-66.vercel.app/api/top-langs/?username=waterfal1&layout=compact)
 
 ### 🤝 Connect with me:
