@@ -71,6 +71,9 @@ I'm a front-end enthusiast with a passion for crafting delightful user experienc
 ### 🔥My Leetcode stats
 ![](https://leetcard.jacoblin.cool/Alexei22?ext=heatmap)
 
+### 🔥My Codewars stats
+![Codewars](https://github.r2v.ch/codewars?user=Aliaksei2233&name=true)
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-streak-1.vercel.app?user=waterfal1&theme=dark&background=000000)](https://git.io/streak-stats)
