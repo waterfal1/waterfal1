@@ -70,7 +70,7 @@ I'm a front-end enthusiast with a passion for crafting delightful user experienc
 
 ### 🔥Stats
 ![](https://leetcard.jacoblin.cool/Alexei22)
-![Codewars](https://github.r2v.ch/codewars?user=Aliaksei2233&name=true)
+![Codewars](https://codewars-latest.onrender.com/codewars?user=Aliaksei2233&name=true)
 
 ### :fire: My Stats :
 
@@ -94,6 +94,7 @@ I'm a front-end enthusiast with a passion for crafting delightful user experienc
 **waterfal1/waterfal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
+![Codewars](https://github.r2v.ch/codewars?user=Aliaksei2233&name=true)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
