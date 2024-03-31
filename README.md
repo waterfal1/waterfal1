@@ -70,7 +70,7 @@ I'm a front-end enthusiast with a passion for crafting delightful user experienc
 
 ### 🔥Stats
 ![](https://leetcard.jacoblin.cool/Alexei22)
-![Codewars](https://codewars-latest.onrender.com/codewars?user=Aliaksei2233&name=true)
+![Codewars](https://codewars-latest.onrender.com/codewars?user=Aliaksei2233)
 
 ### :fire: My Stats :
 
