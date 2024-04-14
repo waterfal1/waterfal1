@@ -74,10 +74,10 @@ I'm a front-end enthusiast with a passion for crafting delightful user experienc
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-streak-5.vercel.app?user=waterfal1&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-streak-6.vercel.app?user=waterfal1&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
-![GitHub stats](https://github-readme-stats-delta-olive-69.vercel.app/api?username=waterfal1)
-![Top Langs](https://github-readme-stats-delta-olive-69.vercel.app/api/top-langs/?username=waterfal1&layout=compact)
+![GitHub stats](https://github-readme-stats-delta-olive-70.vercel.app/api?username=waterfal1)
+![Top Langs](https://github-readme-stats-delta-olive-70.vercel.app/api/top-langs/?username=waterfal1&layout=compact)
 
 ### 🤝 Connect with me:
 [Send me an email](mailto:alextomilovski@gmail.com)
