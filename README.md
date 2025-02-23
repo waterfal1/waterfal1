@@ -1,15 +1,9 @@
 ### Hi there 👋 I'm Alex
 
 <br/>
-![GitHub stats](https://github-readme-stats-delta-olive-70.vercel.app/api?username=waterfal1)
-![Top Langs](https://github-readme-stats-delta-olive-70.vercel.app/api/top-langs/?username=waterfal1&layout=compact)
 
 ### 🤝 Connect with me:
 [Send me an email](mailto:alextomilovski@gmail.com)
-</br>
-[LinkedIn](https://www.linkedin.com/in/aliaksei-tamilouski/)
-</br>
-[Facebook](https://www.facebook.com/alextomilovski)
 </br>
 <p align="left"> 
   Visitor count<br>
