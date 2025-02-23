@@ -1,6 +1,4 @@
 ### Hi there 👋 I'm Alex
-<br/>
-
 ### 🤝 Connect with me:
 [Send me an email](mailto:alextomilovski@gmail.com)
 </br>
